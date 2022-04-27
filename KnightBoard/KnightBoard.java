@@ -1,4 +1,5 @@
-/*Joseph Barchanowicz
+/*
+Written By: Joe Barchanowicz
 Knight Board
 This file contains class Pair
 class KnightBoard and methods to solve KnightBoard
